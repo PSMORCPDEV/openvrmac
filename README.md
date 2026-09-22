@@ -5,6 +5,7 @@ OpenVR SDK for MacOS
 
 > [!IMPORTANT]
 > This is an uncompiled and currently has no updates to original OpenVR. Soon work will start
+
 OpenVR is an API and runtime that allows access to VR hardware from multiple
 vendors without requiring that applications have specific knowledge of the
 hardware they are targeting. This repository is an SDK that contains the API
