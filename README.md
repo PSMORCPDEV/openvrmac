@@ -2,6 +2,7 @@ OpenVR SDK for MacOS
 ---
 > [!NOTE]  
 > This fork uses Claude Code. If you hate generative AI, go ~~fuck~~ deal with it yourself.
+
 > [!IMPORTANT]
 > This is an uncompiled and currently has no updates to original OpenVR. Soon work will start
 OpenVR is an API and runtime that allows access to VR hardware from multiple
