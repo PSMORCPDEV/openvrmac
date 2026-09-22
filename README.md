@@ -1,6 +1,9 @@
-OpenVR SDK
+OpenVR SDK for MacOS
 ---
-
+> [!NOTE]  
+> This fork uses Claude Code. If you hate generative AI, go ~~fuck~~ deal with it yourself.
+> [!IMPORTANT]
+> This is an uncompiled and currently has no updates to original OpenVR. Soon work will start
 OpenVR is an API and runtime that allows access to VR hardware from multiple
 vendors without requiring that applications have specific knowledge of the
 hardware they are targeting. This repository is an SDK that contains the API
@@ -22,4 +25,4 @@ Current documentation for the Driver API can be found in [docs/Driver_API_Docume
 
 ### About
 
-More information on OpenVR and SteamVR can be found on https://steamvr.com
+More information on ~~OpenVR and~~ SteamVR can be found on https://steamvr.com
